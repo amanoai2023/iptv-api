@@ -1,0 +1,5 @@
+https://itv.aptv.app/china-iptv/fjyd.m3u
+https://peterhchina.github.io/iptv/CNTV-V6.m3u
+https://peterhchina.github.io/iptv/CNTV-V4.m3u
+https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u
