@@ -9,7 +9,7 @@ https://peterhchina.github.io/iptv/CNTV-V6.m3u
 https://peterhchina.github.io/iptv/CNTV-V4.m3u
 https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u
-
+https://live.776512.xyz/
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
